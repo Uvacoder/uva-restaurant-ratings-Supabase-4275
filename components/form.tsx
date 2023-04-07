@@ -51,7 +51,7 @@ export default function Form() {
   return (
     <div className="py-5 mx-10 max-width-5-xl">
       <Toaster />
-      <h1 className="text-4xl font-bold text-center my-6">New Rating</h1>
+      <h1 className="text-4xl font-bold text-center my-6">Restaurant Ratings</h1>
       <h2 className="text-1xl text-center my-6">
         Please fill out some basic information about your dining experience.
       </h2>
